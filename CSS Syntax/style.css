@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+/* This is a css comment */
+/* comment in css */
+body {
+  background-color: yellow;
+}
+
+/*
+div {
+  background-color: blue;
+}
+*/
+
+/* .maincontent {
+  background-color: darkgoldenrod;
+} */
+
+.maincontent {
+  background-color: darkgoldenrod;
+}
